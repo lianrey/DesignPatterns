@@ -1,0 +1,10 @@
+/Users/liana/Projects/DesignPatterns/Composite/bin/Debug/netcoreapp2.0/Composite.deps.json
+/Users/liana/Projects/DesignPatterns/Composite/bin/Debug/netcoreapp2.0/Composite.runtimeconfig.json
+/Users/liana/Projects/DesignPatterns/Composite/bin/Debug/netcoreapp2.0/Composite.runtimeconfig.dev.json
+/Users/liana/Projects/DesignPatterns/Composite/bin/Debug/netcoreapp2.0/Composite.dll
+/Users/liana/Projects/DesignPatterns/Composite/bin/Debug/netcoreapp2.0/Composite.pdb
+/Users/liana/Projects/DesignPatterns/Composite/obj/Debug/netcoreapp2.0/Composite.csproj.CoreCompileInputs.cache
+/Users/liana/Projects/DesignPatterns/Composite/obj/Debug/netcoreapp2.0/Composite.AssemblyInfoInputs.cache
+/Users/liana/Projects/DesignPatterns/Composite/obj/Debug/netcoreapp2.0/Composite.AssemblyInfo.cs
+/Users/liana/Projects/DesignPatterns/Composite/obj/Debug/netcoreapp2.0/Composite.dll
+/Users/liana/Projects/DesignPatterns/Composite/obj/Debug/netcoreapp2.0/Composite.pdb

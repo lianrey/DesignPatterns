@@ -1,0 +1,5 @@
+/Users/liana/Projects/DesignPatterns/ChainOfResponsibility/bin/Debug/ChainOfResponsibility.exe
+/Users/liana/Projects/DesignPatterns/ChainOfResponsibility/bin/Debug/ChainOfResponsibility.pdb
+/Users/liana/Projects/DesignPatterns/ChainOfResponsibility/obj/x86/Debug/ChainOfResponsibility.csproj.CoreCompileInputs.cache
+/Users/liana/Projects/DesignPatterns/ChainOfResponsibility/obj/x86/Debug/ChainOfResponsibility.exe
+/Users/liana/Projects/DesignPatterns/ChainOfResponsibility/obj/x86/Debug/ChainOfResponsibility.pdb

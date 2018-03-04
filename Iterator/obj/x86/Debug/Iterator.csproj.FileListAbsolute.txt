@@ -1,0 +1,5 @@
+/Users/liana/Projects/DesignPatterns/Iterator/bin/Debug/Iterator.exe
+/Users/liana/Projects/DesignPatterns/Iterator/bin/Debug/Iterator.pdb
+/Users/liana/Projects/DesignPatterns/Iterator/obj/x86/Debug/Iterator.csproj.CoreCompileInputs.cache
+/Users/liana/Projects/DesignPatterns/Iterator/obj/x86/Debug/Iterator.exe
+/Users/liana/Projects/DesignPatterns/Iterator/obj/x86/Debug/Iterator.pdb

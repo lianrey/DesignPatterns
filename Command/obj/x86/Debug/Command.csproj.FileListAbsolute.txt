@@ -1,0 +1,5 @@
+/Users/liana/Projects/DesignPatterns/Command/bin/Debug/Command.exe
+/Users/liana/Projects/DesignPatterns/Command/bin/Debug/Command.pdb
+/Users/liana/Projects/DesignPatterns/Command/obj/x86/Debug/Command.csproj.CoreCompileInputs.cache
+/Users/liana/Projects/DesignPatterns/Command/obj/x86/Debug/Command.exe
+/Users/liana/Projects/DesignPatterns/Command/obj/x86/Debug/Command.pdb

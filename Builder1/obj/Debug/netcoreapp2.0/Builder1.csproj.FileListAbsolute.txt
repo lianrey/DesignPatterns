@@ -1,0 +1,11 @@
+/Users/liana/Projects/DesignPatterns/Builder1/bin/Debug/netcoreapp2.0/Builder1.deps.json
+/Users/liana/Projects/DesignPatterns/Builder1/bin/Debug/netcoreapp2.0/Builder1.runtimeconfig.json
+/Users/liana/Projects/DesignPatterns/Builder1/bin/Debug/netcoreapp2.0/Builder1.runtimeconfig.dev.json
+/Users/liana/Projects/DesignPatterns/Builder1/bin/Debug/netcoreapp2.0/Builder1.dll
+/Users/liana/Projects/DesignPatterns/Builder1/bin/Debug/netcoreapp2.0/Builder1.pdb
+/Users/liana/Projects/DesignPatterns/Builder1/obj/Debug/netcoreapp2.0/Builder1.csprojResolveAssemblyReference.cache
+/Users/liana/Projects/DesignPatterns/Builder1/obj/Debug/netcoreapp2.0/Builder1.csproj.CoreCompileInputs.cache
+/Users/liana/Projects/DesignPatterns/Builder1/obj/Debug/netcoreapp2.0/Builder1.AssemblyInfoInputs.cache
+/Users/liana/Projects/DesignPatterns/Builder1/obj/Debug/netcoreapp2.0/Builder1.AssemblyInfo.cs
+/Users/liana/Projects/DesignPatterns/Builder1/obj/Debug/netcoreapp2.0/Builder1.dll
+/Users/liana/Projects/DesignPatterns/Builder1/obj/Debug/netcoreapp2.0/Builder1.pdb
