@@ -1,17 +1,23 @@
-﻿<Properties StartupConfiguration="{E7AE062A-98C2-43EF-8DC3-45CCC8D7DB8A}|Default">
+﻿<Properties StartupConfiguration="{CAE2FC2F-71BA-4B32-9625-0A378233BAE6}|Default">
   <MonoDevelop.Ide.ItemProperties.ChainOfResponsibility PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Iterator/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Generics2/Convert.cs">
     <Files>
-      <File FileName="Iterator/Dice.cs" Line="10" Column="10" />
-      <File FileName="Iterator/DiceEnumerable.cs" Line="11" Column="32" />
-      <File FileName="Iterator/Program.cs" Line="17" Column="54" />
+      <File FileName="Generics1/Employee.cs" Line="6" Column="9" />
+      <File FileName="Generics1/Product.cs" Line="8" Column="1" />
+      <File FileName="Generics1/Store.cs" Line="6" Column="9" />
+      <File FileName="Generics1/Program.cs" Line="16" Column="27" />
+      <File FileName="Generics1/PrintProp.cs" Line="11" Column="1" />
+      <File FileName="Generics1/Item.cs" Line="11" Column="6" />
+      <File FileName="Generics2/Convert.cs" Line="12" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.ItemProperties.Iterator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Generics1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Generics2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.FactoryMethod1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ChainOfResponsibility2 PreferredExecutionTarget="MonoDevelop.Default" />

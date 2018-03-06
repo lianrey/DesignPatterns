@@ -3,3 +3,4 @@
 /Users/liana/Projects/DesignPatterns/FactoryMethod1/bin/Debug/FactoryMethod1.pdb
 /Users/liana/Projects/DesignPatterns/FactoryMethod1/obj/x86/Debug/FactoryMethod1.exe
 /Users/liana/Projects/DesignPatterns/FactoryMethod1/obj/x86/Debug/FactoryMethod1.pdb
+/Users/liana/Projects/DesignPatterns/FactoryMethod1/obj/x86/Debug/FactoryMethod1.csprojResolveAssemblyReference.cache

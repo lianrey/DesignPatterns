@@ -1,0 +1,5 @@
+/Users/liana/Projects/DesignPatterns/Generics1/bin/Debug/Generics1.exe
+/Users/liana/Projects/DesignPatterns/Generics1/bin/Debug/Generics1.pdb
+/Users/liana/Projects/DesignPatterns/Generics1/obj/x86/Debug/Generics1.csproj.CoreCompileInputs.cache
+/Users/liana/Projects/DesignPatterns/Generics1/obj/x86/Debug/Generics1.exe
+/Users/liana/Projects/DesignPatterns/Generics1/obj/x86/Debug/Generics1.pdb

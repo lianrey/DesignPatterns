@@ -6,11 +6,16 @@ namespace Composite
     {
         static void Main(string[] args)
         {
-            IEmployee manager = new Manager();
-            manager.Leave();
+            var manager = new Manager();
 
-            IEmployee engineer = new Engineer();
-            engineer.Leave();
+            for (int i = 0; i < 3; i++)
+            {
+                manager.Add(new Engineer());
+                manager.Add(new Manager());
+            }
+
+            manager.DoWork();
+            Console.ReadLine();
         }
     }
 }

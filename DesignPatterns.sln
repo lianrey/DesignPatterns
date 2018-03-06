@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command2", "Command2\Comman
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "Iterator\Iterator.csproj", "{E7AE062A-98C2-43EF-8DC3-45CCC8D7DB8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics1", "Generics1\Generics1.csproj", "{96AFA972-26BA-4F99-9AF3-4DCE6816A3D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics2", "Generics2\Generics2.csproj", "{CAE2FC2F-71BA-4B32-9625-0A378233BAE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -61,5 +65,13 @@ Global
 		{E7AE062A-98C2-43EF-8DC3-45CCC8D7DB8A}.Debug|x86.Build.0 = Debug|x86
 		{E7AE062A-98C2-43EF-8DC3-45CCC8D7DB8A}.Release|x86.ActiveCfg = Release|x86
 		{E7AE062A-98C2-43EF-8DC3-45CCC8D7DB8A}.Release|x86.Build.0 = Release|x86
+		{96AFA972-26BA-4F99-9AF3-4DCE6816A3D5}.Debug|x86.ActiveCfg = Debug|x86
+		{96AFA972-26BA-4F99-9AF3-4DCE6816A3D5}.Debug|x86.Build.0 = Debug|x86
+		{96AFA972-26BA-4F99-9AF3-4DCE6816A3D5}.Release|x86.ActiveCfg = Release|x86
+		{96AFA972-26BA-4F99-9AF3-4DCE6816A3D5}.Release|x86.Build.0 = Release|x86
+		{CAE2FC2F-71BA-4B32-9625-0A378233BAE6}.Debug|x86.ActiveCfg = Debug|x86
+		{CAE2FC2F-71BA-4B32-9625-0A378233BAE6}.Debug|x86.Build.0 = Debug|x86
+		{CAE2FC2F-71BA-4B32-9625-0A378233BAE6}.Release|x86.ActiveCfg = Release|x86
+		{CAE2FC2F-71BA-4B32-9625-0A378233BAE6}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal

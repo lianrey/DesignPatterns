@@ -3,6 +3,7 @@ namespace Composite
 {
     public interface IEmployee
     {
-        void Leave();
+        void DoWork();
+        void Add(IEmployee employee);
     }
 }

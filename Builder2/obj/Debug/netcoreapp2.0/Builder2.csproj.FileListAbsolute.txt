@@ -8,3 +8,4 @@
 /Users/liana/Projects/DesignPatterns/Builder2/obj/Debug/netcoreapp2.0/Builder2.AssemblyInfo.cs
 /Users/liana/Projects/DesignPatterns/Builder2/obj/Debug/netcoreapp2.0/Builder2.dll
 /Users/liana/Projects/DesignPatterns/Builder2/obj/Debug/netcoreapp2.0/Builder2.pdb
+/Users/liana/Projects/DesignPatterns/Builder2/obj/Debug/netcoreapp2.0/Builder2.csprojResolveAssemblyReference.cache

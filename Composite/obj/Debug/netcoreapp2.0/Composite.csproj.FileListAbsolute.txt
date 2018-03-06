@@ -8,3 +8,4 @@
 /Users/liana/Projects/DesignPatterns/Composite/obj/Debug/netcoreapp2.0/Composite.AssemblyInfo.cs
 /Users/liana/Projects/DesignPatterns/Composite/obj/Debug/netcoreapp2.0/Composite.dll
 /Users/liana/Projects/DesignPatterns/Composite/obj/Debug/netcoreapp2.0/Composite.pdb
+/Users/liana/Projects/DesignPatterns/Composite/obj/Debug/netcoreapp2.0/Composite.csprojResolveAssemblyReference.cache

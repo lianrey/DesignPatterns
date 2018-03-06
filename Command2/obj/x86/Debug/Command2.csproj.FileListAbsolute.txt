@@ -3,3 +3,4 @@
 /Users/liana/Projects/DesignPatterns/Command2/obj/x86/Debug/Command2.csproj.CoreCompileInputs.cache
 /Users/liana/Projects/DesignPatterns/Command2/obj/x86/Debug/Command2.exe
 /Users/liana/Projects/DesignPatterns/Command2/obj/x86/Debug/Command2.pdb
+/Users/liana/Projects/DesignPatterns/Command2/obj/x86/Debug/Command2.csprojResolveAssemblyReference.cache
