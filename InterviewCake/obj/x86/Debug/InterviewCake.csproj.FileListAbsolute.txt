@@ -1,0 +1,5 @@
+/Users/liana/Projects/DesignPatterns/InterviewCake/bin/Debug/InterviewCake.exe
+/Users/liana/Projects/DesignPatterns/InterviewCake/bin/Debug/InterviewCake.pdb
+/Users/liana/Projects/DesignPatterns/InterviewCake/obj/x86/Debug/InterviewCake.csproj.CoreCompileInputs.cache
+/Users/liana/Projects/DesignPatterns/InterviewCake/obj/x86/Debug/InterviewCake.exe
+/Users/liana/Projects/DesignPatterns/InterviewCake/obj/x86/Debug/InterviewCake.pdb
