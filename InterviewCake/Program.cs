@@ -11,6 +11,13 @@ namespace InterviewCake
             Console.WriteLine(Question1.GetMaxProfit(stockPrices));
 
             // QUESTION 2
+            var intArray = new int[] { 3, 4 };
+            var result = Question2.GetProductsOfAllIntsExceptAtIndex(intArray);
+            foreach (var value in result)
+            {
+                Console.Write($"{value} ");
+            }
+            Console.WriteLine();
         }
     }
 }
