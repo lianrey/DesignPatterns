@@ -5,7 +5,7 @@ namespace EventsAndDelegates
     class MainClass
     {
         static void Logger(string m){
-            Console.WriteLine(m);
+            Console.WriteLine("Logger::" + m);
         }
 
         public static void Main(string[] args)
@@ -14,6 +14,15 @@ namespace EventsAndDelegates
             Car _car = new Car(myLogger);
             _car.HandleDoor();
             _car.HandleDoor();
+            _car.HandleDoor();
+            _car.Accelerate();
+            _car.Accelerate();
+            _car.Accelerate();
+            _car.Accelerate();
+            _car.Accelerate();
+            _car.Accelerate();
+            _car.Accelerate();
+            _car.Decelerate();
         }
     }
 }
