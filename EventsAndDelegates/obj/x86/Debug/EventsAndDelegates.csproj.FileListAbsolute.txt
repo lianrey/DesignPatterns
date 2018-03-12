@@ -1,0 +1,5 @@
+/Users/liana/Projects/DesignPatterns/EventsAndDelegates/bin/Debug/EventsAndDelegates.exe
+/Users/liana/Projects/DesignPatterns/EventsAndDelegates/bin/Debug/EventsAndDelegates.pdb
+/Users/liana/Projects/DesignPatterns/EventsAndDelegates/obj/x86/Debug/EventsAndDelegates.csproj.CoreCompileInputs.cache
+/Users/liana/Projects/DesignPatterns/EventsAndDelegates/obj/x86/Debug/EventsAndDelegates.exe
+/Users/liana/Projects/DesignPatterns/EventsAndDelegates/obj/x86/Debug/EventsAndDelegates.pdb
