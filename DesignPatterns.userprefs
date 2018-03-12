@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{6E77EC21-C787-4B92-87EA-94A5141E60B4}|Default">
+﻿<Properties StartupConfiguration="{21E89483-EC85-4B57-9276-03F6C274C2B7}|Default">
   <MonoDevelop.Ide.ItemProperties.InterviewCake PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ChainOfResponsibility PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Strategy1/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Strategy2/Transportation.cs">
     <Files>
-      <File FileName="Strategy1/Sort.cs" Line="11" Column="1" />
-      <File FileName="Strategy1/ISort.cs" Line="6" Column="13" />
-      <File FileName="Strategy1/MergeSort.cs" Line="8" Column="38" />
-      <File FileName="Strategy1/QuickSort.cs" Line="8" Column="37" />
-      <File FileName="Strategy1/Timsort.cs" Line="8" Column="35" />
-      <File FileName="Strategy1/Program.cs" Line="9" Column="47" />
+      <File FileName="Strategy2/Program.cs" Line="1" Column="1" />
+      <File FileName="Strategy2/ITransports.cs" Line="9" Column="1" />
+      <File FileName="Strategy2/Car.cs" Line="11" Column="2" />
+      <File FileName="Strategy2/Airplane.cs" Line="12" Column="1" />
+      <File FileName="Strategy2/Transportation.cs" Line="13" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
@@ -20,6 +19,7 @@
   <MonoDevelop.Ide.ItemProperties.Generics2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.FactoryMethod1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Strategy2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ChainOfResponsibility2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Composite PreferredExecutionTarget="MonoDevelop.Default" />

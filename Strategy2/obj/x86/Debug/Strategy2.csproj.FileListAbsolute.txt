@@ -1,0 +1,5 @@
+/Users/liana/Projects/DesignPatterns/Strategy2/bin/Debug/Strategy2.exe
+/Users/liana/Projects/DesignPatterns/Strategy2/bin/Debug/Strategy2.pdb
+/Users/liana/Projects/DesignPatterns/Strategy2/obj/x86/Debug/Strategy2.csproj.CoreCompileInputs.cache
+/Users/liana/Projects/DesignPatterns/Strategy2/obj/x86/Debug/Strategy2.exe
+/Users/liana/Projects/DesignPatterns/Strategy2/obj/x86/Debug/Strategy2.pdb
