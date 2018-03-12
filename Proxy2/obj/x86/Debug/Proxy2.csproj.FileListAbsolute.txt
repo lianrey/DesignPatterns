@@ -1,0 +1,5 @@
+/Users/liana/Projects/DesignPatterns/Proxy2/obj/x86/Debug/Proxy2.csproj.CoreCompileInputs.cache
+/Users/liana/Projects/DesignPatterns/Proxy2/bin/Debug/Proxy2.exe
+/Users/liana/Projects/DesignPatterns/Proxy2/bin/Debug/Proxy2.pdb
+/Users/liana/Projects/DesignPatterns/Proxy2/obj/x86/Debug/Proxy2.exe
+/Users/liana/Projects/DesignPatterns/Proxy2/obj/x86/Debug/Proxy2.pdb
