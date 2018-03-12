@@ -1,24 +1,14 @@
-﻿<Properties StartupConfiguration="{7207B2DD-0CEA-4476-BF05-16D0573E33F4}|Default">
+﻿<Properties StartupConfiguration="{6E77EC21-C787-4B92-87EA-94A5141E60B4}|Default">
   <MonoDevelop.Ide.ItemProperties.InterviewCake PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ChainOfResponsibility PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="InterviewCake/Question2.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Strategy1/Program.cs">
     <Files>
-      <File FileName="Generics1/Employee.cs" Line="6" Column="9" />
-      <File FileName="Generics1/Product.cs" Line="8" Column="1" />
-      <File FileName="Generics1/Store.cs" Line="6" Column="9" />
-      <File FileName="Generics1/Program.cs" Line="16" Column="27" />
-      <File FileName="Generics1/PrintProp.cs" Line="11" Column="1" />
-      <File FileName="Generics1/Item.cs" Line="11" Column="6" />
-      <File FileName="Generics2/Convert.cs" Line="12" Column="2" />
-      <File FileName="InterviewCake/Question1.cs" Line="11" Column="98" />
-      <File FileName="InterviewCake/Program.cs" Line="10" Column="67" />
-      <File FileName="Builder1/Car.cs" Line="20" Column="6" />
-      <File FileName="Builder1/Program.cs" Line="15" Column="26" />
-      <File FileName="ChainOfResponsibility/Program.cs" Line="20" Column="10" />
-      <File FileName="ChainOfResponsibility/BankManager.cs" Line="24" Column="6" />
-      <File FileName="ChainOfResponsibility/Chain.cs" Line="10" Column="1" />
-      <File FileName="ChainOfResponsibility/Clerk.cs" Line="15" Column="25" />
-      <File FileName="InterviewCake/Question2.cs" Line="6" Column="9" />
+      <File FileName="Strategy1/Sort.cs" Line="11" Column="1" />
+      <File FileName="Strategy1/ISort.cs" Line="6" Column="13" />
+      <File FileName="Strategy1/MergeSort.cs" Line="8" Column="38" />
+      <File FileName="Strategy1/QuickSort.cs" Line="8" Column="37" />
+      <File FileName="Strategy1/Timsort.cs" Line="8" Column="35" />
+      <File FileName="Strategy1/Program.cs" Line="9" Column="47" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
@@ -37,4 +27,5 @@
   <MonoDevelop.Ide.ItemProperties.Builder1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Builder2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Command2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Strategy1 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

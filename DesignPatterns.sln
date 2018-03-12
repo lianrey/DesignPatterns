@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics2", "Generics2\Gene
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewCake", "InterviewCake\InterviewCake.csproj", "{7207B2DD-0CEA-4476-BF05-16D0573E33F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy1", "Strategy1\Strategy1.csproj", "{6E77EC21-C787-4B92-87EA-94A5141E60B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -79,5 +81,9 @@ Global
 		{7207B2DD-0CEA-4476-BF05-16D0573E33F4}.Debug|x86.Build.0 = Debug|x86
 		{7207B2DD-0CEA-4476-BF05-16D0573E33F4}.Release|x86.ActiveCfg = Release|x86
 		{7207B2DD-0CEA-4476-BF05-16D0573E33F4}.Release|x86.Build.0 = Release|x86
+		{6E77EC21-C787-4B92-87EA-94A5141E60B4}.Debug|x86.ActiveCfg = Debug|x86
+		{6E77EC21-C787-4B92-87EA-94A5141E60B4}.Debug|x86.Build.0 = Debug|x86
+		{6E77EC21-C787-4B92-87EA-94A5141E60B4}.Release|x86.ActiveCfg = Release|x86
+		{6E77EC21-C787-4B92-87EA-94A5141E60B4}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
