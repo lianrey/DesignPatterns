@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
+using System.Co
 namespace EventsAndDelegates
 {
     public class Car
@@ -24,15 +24,6 @@ namespace EventsAndDelegates
                 isOpened = true;
                 Console.WriteLine("Open door");
                 _logHander("Open door");
-                var meetings = new List<Meeting>()
-                {
-                    new Meeting(0, 1),
-                    new Meeting(3, 5),
-                    new Meeting(4, 8),
-                    new Meeting(10, 12),
-                    new Meeting(9, 10)
-                };
-                meetings.
             }
              
         }
