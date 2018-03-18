@@ -1,0 +1,5 @@
+/Users/liana/Projects/DesignPatterns/Features/obj/x86/Debug/Features.csproj.CoreCompileInputs.cache
+/Users/liana/Projects/DesignPatterns/Features/bin/Debug/Features.exe
+/Users/liana/Projects/DesignPatterns/Features/bin/Debug/Features.pdb
+/Users/liana/Projects/DesignPatterns/Features/obj/x86/Debug/Features.exe
+/Users/liana/Projects/DesignPatterns/Features/obj/x86/Debug/Features.pdb

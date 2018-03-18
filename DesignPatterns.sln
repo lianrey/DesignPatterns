@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Sing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{5DA27388-436D-4ADE-9E60-14D94E2343E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Features", "Features\Features.csproj", "{C1AAB7A7-E293-49F7-A9C4-FDAD423C6911}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -121,5 +123,9 @@ Global
 		{5DA27388-436D-4ADE-9E60-14D94E2343E8}.Debug|x86.Build.0 = Debug|x86
 		{5DA27388-436D-4ADE-9E60-14D94E2343E8}.Release|x86.ActiveCfg = Release|x86
 		{5DA27388-436D-4ADE-9E60-14D94E2343E8}.Release|x86.Build.0 = Release|x86
+		{C1AAB7A7-E293-49F7-A9C4-FDAD423C6911}.Debug|x86.ActiveCfg = Debug|x86
+		{C1AAB7A7-E293-49F7-A9C4-FDAD423C6911}.Debug|x86.Build.0 = Debug|x86
+		{C1AAB7A7-E293-49F7-A9C4-FDAD423C6911}.Release|x86.ActiveCfg = Release|x86
+		{C1AAB7A7-E293-49F7-A9C4-FDAD423C6911}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal

@@ -1,11 +1,12 @@
-﻿<Properties StartupConfiguration="{5DA27388-436D-4ADE-9E60-14D94E2343E8}|Default">
+﻿<Properties StartupConfiguration="{C1AAB7A7-E293-49F7-A9C4-FDAD423C6911}|Default">
   <MonoDevelop.Ide.ItemProperties.InterviewCake PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ChainOfResponsibility PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Singleton PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Decorator/ConsoleDecorator.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Features/Point.cs">
     <Files>
-      <File FileName="Decorator/Program.cs" Line="6" Column="6" />
-      <File FileName="Decorator/ConsoleDecorator.cs" Line="4" Column="46" />
+      <File FileName="Decorator/Program.cs" Line="10" Column="48" />
+      <File FileName="Features/Program.cs" Line="13" Column="1" />
+      <File FileName="Features/Point.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
@@ -19,6 +20,7 @@
   <MonoDevelop.Ide.ItemProperties.FactoryMethod1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.EventsAndDelegates PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Strategy2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Features PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ChainOfResponsibility2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Decorator PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Proxy2 PreferredExecutionTarget="MonoDevelop.Default" />
