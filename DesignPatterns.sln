@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy2", "Proxy2\Proxy2.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsAndDelegates", "EventsAndDelegates\EventsAndDelegates.csproj", "{DCD05FC9-6C4D-4107-94BB-147CC4D873BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{5C1B1594-FF02-4BA9-8DE7-556088488837}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -109,5 +111,9 @@ Global
 		{DCD05FC9-6C4D-4107-94BB-147CC4D873BD}.Debug|x86.Build.0 = Debug|x86
 		{DCD05FC9-6C4D-4107-94BB-147CC4D873BD}.Release|x86.ActiveCfg = Release|x86
 		{DCD05FC9-6C4D-4107-94BB-147CC4D873BD}.Release|x86.Build.0 = Release|x86
+		{5C1B1594-FF02-4BA9-8DE7-556088488837}.Debug|x86.ActiveCfg = Debug|x86
+		{5C1B1594-FF02-4BA9-8DE7-556088488837}.Debug|x86.Build.0 = Debug|x86
+		{5C1B1594-FF02-4BA9-8DE7-556088488837}.Release|x86.ActiveCfg = Release|x86
+		{5C1B1594-FF02-4BA9-8DE7-556088488837}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal

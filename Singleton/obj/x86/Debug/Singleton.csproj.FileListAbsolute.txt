@@ -1,0 +1,5 @@
+/Users/liana/Projects/DesignPatterns/Singleton/bin/Debug/Singleton.exe
+/Users/liana/Projects/DesignPatterns/Singleton/bin/Debug/Singleton.pdb
+/Users/liana/Projects/DesignPatterns/Singleton/obj/x86/Debug/Singleton.csproj.CoreCompileInputs.cache
+/Users/liana/Projects/DesignPatterns/Singleton/obj/x86/Debug/Singleton.exe
+/Users/liana/Projects/DesignPatterns/Singleton/obj/x86/Debug/Singleton.pdb

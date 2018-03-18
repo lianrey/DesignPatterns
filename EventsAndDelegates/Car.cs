@@ -1,5 +1,6 @@
 ﻿using System;
-using System.Co
+using System.Collections;
+
 namespace EventsAndDelegates
 {
     public class Car
@@ -9,21 +10,21 @@ namespace EventsAndDelegates
         public bool isDead = false;
         public bool isOpened = false;
         public delegate void LoggerHandle(string message);
-        LoggerHandle _logHander;
+        LoggerHandle _logHandler;
 
         public Car(LoggerHandle logHander){
-            _logHander = logHander;
+            _logHandler = logHander;
         }
        
         public void HandleDoor(){
             if(isOpened){
                 Console.WriteLine("Close door");
-                _logHander("close door");
+                _logHandler("close door");
             }
             else{
                 isOpened = true;
                 Console.WriteLine("Open door");
-                _logHander("Open door");
+                _logHandler("Open door");
             }
              
         }
@@ -34,11 +35,11 @@ namespace EventsAndDelegates
             { 
                 _speed += 20;
                 Console.WriteLine("Accelerating: " + _speed);
-                _logHander("Accelerating spead::" + _speed);
+                _logHandler("Accelerating spead::" + _speed);
             }
             else{
                 Console.WriteLine("Sorry car is dead");
-                _logHander("Sorry car is dead " + _speed);
+                _logHandler("Sorry car is dead " + _speed);
             }
         }
 
@@ -46,7 +47,7 @@ namespace EventsAndDelegates
         {
             _speed =  (_speed == 0)? 0: _speed -20;
             Console.WriteLine("Decelerating: " + _speed);
-            _logHander("Decelerating spead::" + _speed);
+            _logHandler("Decelerating spead::" + _speed);
         }
     }
 }

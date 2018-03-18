@@ -1,15 +1,11 @@
-﻿<Properties StartupConfiguration="{7207B2DD-0CEA-4476-BF05-16D0573E33F4}|Default">
+﻿<Properties StartupConfiguration="{5C1B1594-FF02-4BA9-8DE7-556088488837}|Default">
   <MonoDevelop.Ide.ItemProperties.InterviewCake PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ChainOfResponsibility PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="InterviewCake/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.Singleton PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Singleton/Program.cs">
     <Files>
-      <File FileName="Proxy2/Twitter.cs" Line="20" Column="24" />
-      <File FileName="Proxy2/GetTwitterData.cs" Line="7" Column="21" />
-      <File FileName="Proxy2/TwitterProxy.cs" Line="8" Column="13" />
-      <File FileName="EventsAndDelegates/Car.cs" Line="35" Column="26" />
-      <File FileName="EventsAndDelegates/Program.cs" Line="8" Column="47" />
-      <File FileName="InterviewCake/Question4.cs" Line="21" Column="18" />
-      <File FileName="InterviewCake/Program.cs" Line="31" Column="45" />
+      <File FileName="Singleton/ReservationSingleton.cs" Line="23" Column="2" />
+      <File FileName="Singleton/Program.cs" Line="9" Column="47" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
