@@ -1,0 +1,5 @@
+/Users/liana/Projects/DesignPatterns/Decorator/obj/x86/Debug/Decorator.csproj.CoreCompileInputs.cache
+/Users/liana/Projects/DesignPatterns/Decorator/bin/Debug/Decorator.exe
+/Users/liana/Projects/DesignPatterns/Decorator/bin/Debug/Decorator.pdb
+/Users/liana/Projects/DesignPatterns/Decorator/obj/x86/Debug/Decorator.exe
+/Users/liana/Projects/DesignPatterns/Decorator/obj/x86/Debug/Decorator.pdb
