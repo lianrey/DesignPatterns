@@ -1,0 +1,10 @@
+/Users/liana/Projects/DesignPatterns/MvcPharmacy/obj/Debug/netcoreapp2.0/MvcPharmacy.csproj.CoreCompileInputs.cache
+/Users/liana/Projects/DesignPatterns/MvcPharmacy/obj/Debug/netcoreapp2.0/MvcPharmacy.AssemblyInfoInputs.cache
+/Users/liana/Projects/DesignPatterns/MvcPharmacy/obj/Debug/netcoreapp2.0/MvcPharmacy.AssemblyInfo.cs
+/Users/liana/Projects/DesignPatterns/MvcPharmacy/bin/Debug/netcoreapp2.0/MvcPharmacy.deps.json
+/Users/liana/Projects/DesignPatterns/MvcPharmacy/bin/Debug/netcoreapp2.0/MvcPharmacy.runtimeconfig.json
+/Users/liana/Projects/DesignPatterns/MvcPharmacy/bin/Debug/netcoreapp2.0/MvcPharmacy.runtimeconfig.dev.json
+/Users/liana/Projects/DesignPatterns/MvcPharmacy/bin/Debug/netcoreapp2.0/MvcPharmacy.dll
+/Users/liana/Projects/DesignPatterns/MvcPharmacy/bin/Debug/netcoreapp2.0/MvcPharmacy.pdb
+/Users/liana/Projects/DesignPatterns/MvcPharmacy/obj/Debug/netcoreapp2.0/MvcPharmacy.dll
+/Users/liana/Projects/DesignPatterns/MvcPharmacy/obj/Debug/netcoreapp2.0/MvcPharmacy.pdb

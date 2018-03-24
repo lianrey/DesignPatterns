@@ -34,6 +34,10 @@ namespace InterviewCake
                 Console.Write($"{meeting} ");
             }
             Console.WriteLine();
+
+
+            // QUESTION 5
+            Console.WriteLine(Question5.ChangePossibilitiesBottomUp(4, new int[]{ 1, 2, 3 }));
         }
     }
 }

@@ -1,0 +1,3 @@
+/Users/liana/Projects/DesignPatterns/MVCCorePharmacy/obj/Debug/netcoreapp2.0/MVCCorePharmacy.csproj.CoreCompileInputs.cache
+/Users/liana/Projects/DesignPatterns/MVCCorePharmacy/obj/Debug/netcoreapp2.0/MVCCorePharmacy.AssemblyInfoInputs.cache
+/Users/liana/Projects/DesignPatterns/MVCCorePharmacy/obj/Debug/netcoreapp2.0/MVCCorePharmacy.AssemblyInfo.cs
