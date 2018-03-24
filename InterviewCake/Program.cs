@@ -38,6 +38,9 @@ namespace InterviewCake
 
             // QUESTION 5
             Console.WriteLine(Question5.ChangePossibilitiesBottomUp(4, new int[]{ 1, 2, 3 }));
+        
+            // QUESTION 6
+            Console.WriteLine(Question6.FindRectangularOverlap(new Rectangle(1, 10, 3, 20), new Rectangle(2, 10, 3, 15)).LeftX);
         }
     }
 }
