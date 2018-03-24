@@ -3,3 +3,4 @@
 /Users/liana/Projects/DesignPatterns/Strategy1/obj/x86/Debug/Strategy1.csproj.CoreCompileInputs.cache
 /Users/liana/Projects/DesignPatterns/Strategy1/obj/x86/Debug/Strategy1.exe
 /Users/liana/Projects/DesignPatterns/Strategy1/obj/x86/Debug/Strategy1.pdb
+/Users/liana/Projects/DesignPatterns/Strategy1/obj/x86/Debug/Strategy1.csprojResolveAssemblyReference.cache

@@ -41,6 +41,19 @@ namespace InterviewCake
         
             // QUESTION 6
             Console.WriteLine(Question6.FindRectangularOverlap(new Rectangle(1, 10, 3, 20), new Rectangle(2, 10, 3, 15)).LeftX);
+
+            // QUESTION 7
+            TempTracker temp = new TempTracker();
+            temp.addTemperature(1);
+            temp.addTemperature(3);
+            temp.addTemperature(6);
+            temp.addTemperature(3);
+            temp.addTemperature(1);
+            temp.addTemperature(3);
+            Console.WriteLine($"Max: {temp.GetMax()}");
+            Console.WriteLine($"Min: {temp.GetMin()}");
+            Console.WriteLine($"Average: {temp.GetMean()}");
+            Console.WriteLine($"Total: {temp.GetMode()}");
         }
     }
 }
