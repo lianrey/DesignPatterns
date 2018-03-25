@@ -2,25 +2,19 @@
   <MonoDevelop.Ide.ItemProperties.InterviewCake PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ChainOfResponsibility PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Singleton PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="InterviewCake/Question7.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InterviewCake/Program.cs">
     <Files>
-      <File FileName="Singleton/Program.cs" Line="38" Column="24" />
-      <File FileName="Singleton/ReservationSingleton.cs" Line="6" Column="31" />
-      <File FileName="Decorator/ConsoleDecorator.cs" Line="12" Column="26" />
-      <File FileName="Decorator/Program.cs" Line="10" Column="48" />
-      <File FileName="Features/Point.cs" Line="17" Column="58" />
-      <File FileName="Features/Program.cs" Line="23" Column="1" />
-      <File FileName="InterviewCake/Question5.cs" Line="21" Column="1" />
-      <File FileName="InterviewCake/Program.cs" Line="43" Column="129" />
-      <File FileName="InterviewCake/Question6.cs" Line="13" Column="10" />
-      <File FileName="InterviewCake/Question7.cs" Line="9" Column="6" />
+      <File FileName="InterviewCake/Question8.cs" Line="64" Column="1" />
+      <File FileName="InterviewCake/Program.cs" Line="58" Column="16" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.ItemProperties.Iterator PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Generics1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/liana/Projects/DesignPatterns/InterviewCake/Question8.cs" relfile="InterviewCake/Question8.cs" line="58" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.Generics2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

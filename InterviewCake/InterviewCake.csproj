@@ -40,6 +40,7 @@
     <Compile Include="Question5.cs" />
     <Compile Include="Question6.cs" />
     <Compile Include="Question7.cs" />
+    <Compile Include="Question8.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -54,6 +54,19 @@ namespace InterviewCake
             Console.WriteLine($"Min: {temp.GetMin()}");
             Console.WriteLine($"Average: {temp.GetMean()}");
             Console.WriteLine($"Total: {temp.GetMode()}");
+
+            // QUESTION 8
+            BinaryTreeNode tree = new BinaryTreeNode(1);
+            BinaryTreeNode left1 = tree.InsertLeft(2);
+            BinaryTreeNode left2 = left1.InsertLeft(3);
+            BinaryTreeNode left3 = left2.InsertLeft(4);
+
+            BinaryTreeNode right1 = tree.InsertRight(5);
+            BinaryTreeNode right1left1 = tree.InsertRight(8);
+            BinaryTreeNode right2 = right1.InsertRight(6);
+            BinaryTreeNode right3 = right2.InsertRight(7);
+
+            Console.WriteLine("Is balanced:D " + Question8.IsBalanced(tree));
         }
     }
 }
