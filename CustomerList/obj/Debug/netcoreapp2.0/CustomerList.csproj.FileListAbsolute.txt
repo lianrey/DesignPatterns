@@ -1,0 +1,10 @@
+/Users/liana/Projects/DesignPatterns/CustomerList/bin/Debug/netcoreapp2.0/CustomerList.deps.json
+/Users/liana/Projects/DesignPatterns/CustomerList/bin/Debug/netcoreapp2.0/CustomerList.runtimeconfig.json
+/Users/liana/Projects/DesignPatterns/CustomerList/bin/Debug/netcoreapp2.0/CustomerList.runtimeconfig.dev.json
+/Users/liana/Projects/DesignPatterns/CustomerList/bin/Debug/netcoreapp2.0/CustomerList.dll
+/Users/liana/Projects/DesignPatterns/CustomerList/bin/Debug/netcoreapp2.0/CustomerList.pdb
+/Users/liana/Projects/DesignPatterns/CustomerList/obj/Debug/netcoreapp2.0/CustomerList.csproj.CoreCompileInputs.cache
+/Users/liana/Projects/DesignPatterns/CustomerList/obj/Debug/netcoreapp2.0/CustomerList.AssemblyInfoInputs.cache
+/Users/liana/Projects/DesignPatterns/CustomerList/obj/Debug/netcoreapp2.0/CustomerList.AssemblyInfo.cs
+/Users/liana/Projects/DesignPatterns/CustomerList/obj/Debug/netcoreapp2.0/CustomerList.dll
+/Users/liana/Projects/DesignPatterns/CustomerList/obj/Debug/netcoreapp2.0/CustomerList.pdb

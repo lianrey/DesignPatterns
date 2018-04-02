@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Features", "Features\Featur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitorPattern", "VisitorPattern\VisitorPattern.csproj", "{F2781451-3CA5-4FF0-9096-9B856B933E2C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerList", "CustomerList\CustomerList.csproj", "{8917BA63-18A8-4FBF-A72C-B687D7F7699F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -133,5 +135,9 @@ Global
 		{F2781451-3CA5-4FF0-9096-9B856B933E2C}.Debug|x86.Build.0 = Debug|x86
 		{F2781451-3CA5-4FF0-9096-9B856B933E2C}.Release|x86.ActiveCfg = Release|x86
 		{F2781451-3CA5-4FF0-9096-9B856B933E2C}.Release|x86.Build.0 = Release|x86
+		{8917BA63-18A8-4FBF-A72C-B687D7F7699F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8917BA63-18A8-4FBF-A72C-B687D7F7699F}.Debug|x86.Build.0 = Debug|Any CPU
+		{8917BA63-18A8-4FBF-A72C-B687D7F7699F}.Release|x86.ActiveCfg = Release|Any CPU
+		{8917BA63-18A8-4FBF-A72C-B687D7F7699F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
