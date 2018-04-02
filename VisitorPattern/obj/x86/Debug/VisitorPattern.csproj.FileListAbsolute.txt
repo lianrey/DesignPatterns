@@ -1,0 +1,5 @@
+/Users/liana/Projects/DesignPatterns/VisitorPattern/obj/x86/Debug/VisitorPattern.csproj.CoreCompileInputs.cache
+/Users/liana/Projects/DesignPatterns/VisitorPattern/bin/Debug/VisitorPattern.exe
+/Users/liana/Projects/DesignPatterns/VisitorPattern/bin/Debug/VisitorPattern.pdb
+/Users/liana/Projects/DesignPatterns/VisitorPattern/obj/x86/Debug/VisitorPattern.exe
+/Users/liana/Projects/DesignPatterns/VisitorPattern/obj/x86/Debug/VisitorPattern.pdb

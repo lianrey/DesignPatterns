@@ -3,38 +3,38 @@ using System.Collections.Generic;
 
 namespace InterviewCake
 {
-    public class BinaryTreeNode 
+    public class BinaryTreeNode1 
     {
         public int Value { get; }
 
-        public BinaryTreeNode Left { get; private set; }
-        public BinaryTreeNode Right { get; private set; }
+        public BinaryTreeNode1 Left { get; private set; }
+        public BinaryTreeNode1 Right { get; private set; }
 
-        public BinaryTreeNode(int value)
+        public BinaryTreeNode1(int value)
         {
             Value = value;
         }
 
-        public BinaryTreeNode InsertLeft(int leftValue)
+        public BinaryTreeNode1 InsertLeft(int leftValue)
         {
-            Left = new BinaryTreeNode(leftValue);
+            Left = new BinaryTreeNode1(leftValue);
             return Left;
         }
 
-        public BinaryTreeNode InsertRight(int rightValue)
+        public BinaryTreeNode1 InsertRight(int rightValue)
         {
-            Right = new BinaryTreeNode(rightValue);
+            Right = new BinaryTreeNode1(rightValue);
             return Right;
         }
     }
 
     public class NodeDepthPair
     {
-        public BinaryTreeNode Node { get; }
+        public BinaryTreeNode1 Node { get; }
 
         public int Depth { get; }
 
-        public NodeDepthPair(BinaryTreeNode node, int depth)
+        public NodeDepthPair(BinaryTreeNode1 node, int depth)
         {
             Node = node;
             Depth = depth;
@@ -43,7 +43,7 @@ namespace InterviewCake
 
     public class Question8
     {
-        public static bool IsBalanced(BinaryTreeNode treeRoot)
+        public static bool IsBalanced(BinaryTreeNode1 treeRoot)
         {
             if(treeRoot == null)
             {
