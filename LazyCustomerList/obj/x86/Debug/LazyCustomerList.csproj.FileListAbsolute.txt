@@ -1,0 +1,5 @@
+/Users/liana/Projects/DesignPatterns/LazyCustomerList/obj/x86/Debug/LazyCustomerList.csproj.CoreCompileInputs.cache
+/Users/liana/Projects/DesignPatterns/LazyCustomerList/bin/Debug/LazyCustomerList.exe
+/Users/liana/Projects/DesignPatterns/LazyCustomerList/bin/Debug/LazyCustomerList.pdb
+/Users/liana/Projects/DesignPatterns/LazyCustomerList/obj/x86/Debug/LazyCustomerList.exe
+/Users/liana/Projects/DesignPatterns/LazyCustomerList/obj/x86/Debug/LazyCustomerList.pdb

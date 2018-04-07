@@ -73,6 +73,38 @@ namespace InterviewCake
             BinaryTreeNode1 right2_1 = tree2.InsertRight(5);
 
             Console.WriteLine("Is balanced:D " + Question8.IsBalanced(tree2));
+
+            // QUESTION 10
+            Console.WriteLine("Question 10");
+            BinaryTreeNode10 tree10 = new BinaryTreeNode10(2);
+            BinaryTreeNode10 left101 = tree10.InsertLeft(1);
+
+            BinaryTreeNode10 right101 = tree10.InsertRight(3);
+
+            Question10 q10 = new Question10();
+            Console.WriteLine(q10.FindSecondLargest(tree10));
+
+            // QUESTION 12
+            Console.WriteLine("Question 12");
+            Question12 q12 = new Question12();
+            q12.BinarySeach(12, new int[] { 1, 3, 5, 6, 8, 12, 13 });
+
+            // QUESTION 13
+            Console.WriteLine("Question 13");
+            Question13 q13 = new Question13();
+            Console.WriteLine(q13.FindIndexOfRotation(new string[] {
+                "ptolemaic",
+                "retrograde",
+                "supplant",
+                "undulate",
+                "xenoepist",
+                "asymptote",  // <-- rotates here!
+                "babka",
+                "banoffee",
+                "engender",
+                "karpatka",
+                "othellolagkage",
+            }));
         }
     }
 }

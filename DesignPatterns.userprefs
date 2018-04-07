@@ -1,19 +1,15 @@
-﻿<Properties StartupConfiguration="{8917BA63-18A8-4FBF-A72C-B687D7F7699F}|Default">
+﻿<Properties StartupConfiguration="{7207B2DD-0CEA-4476-BF05-16D0573E33F4}|Default">
   <MonoDevelop.Ide.ItemProperties.InterviewCake PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ChainOfResponsibility PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Singleton PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CustomerList/Customer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InterviewCake/Question13.cs">
     <Files>
-      <File FileName="VisitorPattern/Program.cs" Line="9" Column="51" />
-      <File FileName="VisitorPattern/Visitor.cs" Line="9" Column="1" />
-      <File FileName="VisitorPattern/PlainText.cs" Line="16" Column="1" />
-      <File FileName="VisitorPattern/Html.cs" Line="17" Column="1" />
-      <File FileName="VisitorPattern/Markdown.cs" Line="16" Column="1" />
-      <File FileName="VisitorPattern/Text.cs" Line="19" Column="1" />
-      <File FileName="VisitorPattern/Visitable.cs" Line="9" Column="1" />
-      <File FileName="CustomerList/Program.cs" Line="6" Column="18" />
-      <File FileName="CustomerList/Customer.cs" Line="16" Column="17" />
-      <File FileName="CustomerList/Files/names.txt" Line="1" Column="1" />
+      <File FileName="InterviewCake/Question10.cs" Line="54" Column="1" />
+      <File FileName="InterviewCake/Question9.cs" Line="3" Column="1" />
+      <File FileName="InterviewCake/Program.cs" Line="87" Column="27" />
+      <File FileName="DataLib2/Program.cs" Line="34" Column="1" />
+      <File FileName="InterviewCake/Question12.cs" Line="35" Column="1" />
+      <File FileName="InterviewCake/Question13.cs" Line="6" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
@@ -22,15 +18,18 @@
   <MonoDevelop.Ide.ItemProperties.VisitorPattern PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/liana/Projects/DesignPatterns/CustomerList/Program.cs" relfile="CustomerList/Program.cs" line="12" column="1" />
+      <Breakpoint file="/Users/liana/Downloads/DataLib/Entities/Racer.cs" line="32" column="1" />
+      <Breakpoint file="/Users/liana/Projects/DesignPatterns/InterviewCake/Question12.cs" relfile="InterviewCake/Question12.cs" line="11" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.Generics2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.FactoryMethod1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DataLib PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.EventsAndDelegates PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Strategy2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Features PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DataLib2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ChainOfResponsibility2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Decorator PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Proxy2 PreferredExecutionTarget="MonoDevelop.Default" />
@@ -41,6 +40,7 @@
   <MonoDevelop.Ide.ItemProperties.Command PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Builder1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Builder2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.LazyCustomerList PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Command2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Strategy1 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

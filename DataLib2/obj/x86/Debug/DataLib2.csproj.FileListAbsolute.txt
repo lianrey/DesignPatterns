@@ -1,0 +1,5 @@
+/Users/liana/Projects/DesignPatterns/DataLib2/bin/Debug/DataLib2.exe
+/Users/liana/Projects/DesignPatterns/DataLib2/bin/Debug/DataLib2.pdb
+/Users/liana/Projects/DesignPatterns/DataLib2/obj/x86/Debug/DataLib2.csproj.CoreCompileInputs.cache
+/Users/liana/Projects/DesignPatterns/DataLib2/obj/x86/Debug/DataLib2.exe
+/Users/liana/Projects/DesignPatterns/DataLib2/obj/x86/Debug/DataLib2.pdb
